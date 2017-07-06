@@ -132,6 +132,10 @@
     "hash": "df9b99468d4bd4cf2fee5d24ed9badbf"
   },
   {
+    "file": "README.md",
+    "hash": "f28f6e8408d77fd3c64331c22302d52f"
+  },
+  {
     "file": "service-worker.js",
     "hash": "03a7c709333c4ab0450b0fc2a244ff07"
   }
